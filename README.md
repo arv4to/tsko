@@ -1,1 +1,3 @@
-Najdi skrytý bar vystihujíc vedení, poté obdržíš nápovědu. Však zprávu teprve nalezneš, až jméno odhalíš... dlouho tu nebyl, však něco po sobě zanechal.
+#W1250
+
+4e 61 6a 64 69 20 73 6b 72 79 74 fd 20 62 61 72 20 76 79 73 74 69 68 75 6a ed 63 20 76 65 64 65 6e ed 2c 20 70 6f 74 e9 20 6f 62 64 72 9e ed 9a 20 6e e1 70 6f 76 ec 64 75 2e 20 56 9a 61 6b 20 7a 70 72 e1 76 75 20 74 65 70 72 76 65 20 6e 61 6c 65 7a 6e 65 9a 2c 20 61 9e 20 6a 6d e9 6e 6f 20 6f 64 68 61 6c ed 9a 2e 2e 2e 20 64 6c 6f 75 68 6f 20 74 75 20 6e 65 62 79 6c 2c 20 76 9a 61 6b 20 6e ec 63 6f 20 70 6f 20 73 6f 62 ec 20 7a 61 6e 65 63 68 61 6c 2e 0a
